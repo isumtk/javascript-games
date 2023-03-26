@@ -2,7 +2,6 @@
 
 ## Sprite Animation
 
----
 
 Sprite Animations are a popular choice for bringing 2D assets to life. Typically, these animations are created using a Sprite Sheet—a grid of individual images representing different stages of the animation.
 
