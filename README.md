@@ -11,3 +11,14 @@ For this particular animation, I opted to use this approach, resulting in a smoo
 
 
 ![Dog Sprite Animation](dog-sprite-animation.gif "Dog Sprite Animation")
+
+
+## Parallax Background [(Code and Files)](https://github.com/isumtk/javascript-games/tree/parallax-backgrounds)
+
+
+Parallax backgrounds are a popular technique used in game development to create the illusion of depth in a 2D game world. Essentially, the technique involves creating multiple layers of background art that move at different speeds to simulate the effect of objects appearing to move at different distances from the player's perspective.
+
+For example, a foreground layer may move quickly, while a mid-ground layer moves slower, and a background layer moves even slower. This creates the impression of depth and movement in the game world, even though it is still a 2D environment.
+
+
+![Parallax Background](parallax_background.gif "Moving backgrounds at different speeds")
