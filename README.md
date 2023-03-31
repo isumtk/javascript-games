@@ -22,3 +22,12 @@ For example, a foreground layer may move quickly, while a mid-ground layer moves
 
 
 ![Parallax Background](parallax_background.gif "Moving backgrounds at different speeds")
+
+
+## Non-Playable Characters (NPCs) [(Code and Files)](https://github.com/isumtk/javascript-games/tree/npc-movement-pattern-1)
+
+NPC movements in game development refer to the behavior and actions of non-playable characters (NPCs) within a game world. NPC movements can be critical to the overall gameplay experience, as they can affect the player's interactions with the game world and other NPCs.
+
+There are several ways to implement NPC movements in game development. One common approach is to use scripted sequences or animations, which are pre-programmed actions that the NPCs perform at specific times or in response to certain events. For example, an NPC might move from one location to another in response to a trigger event, such as the player approaching a certain area.
+
+![NPC Movement](NPC-Movements-1.gif "NPC Movement Type 1 with different speeds.")
